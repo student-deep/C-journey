@@ -1,0 +1,3 @@
+/*
+given a string s check if its palindrome or not
+*/
